@@ -26,5 +26,4 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
-      - run: echo "docs.sillysmp.net" > CNAME
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy --force --cname docs.sillysmp.net
