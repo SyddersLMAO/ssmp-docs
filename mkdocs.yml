@@ -1,5 +1,5 @@
 site_name: SSMP5 Docs
-site_url: https://www.sydders.com
+site_url: https://docs.sillysmp.net
 theme:
   name: material
   logo: assets/logo.png
@@ -21,10 +21,12 @@ theme:
       primary: light blue
       accent: pink
 
+use_directory_urls: true
 extra:
   social:
     - icon: simple/youtube
       link: https://youtube.com/@SyddersLMAO
+  cname: docs.sillysmp.net
 
 markdown_extensions:
   - admonition
