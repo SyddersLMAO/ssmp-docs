@@ -1,0 +1,32 @@
+site_name: SSMP5 Docs
+site_url: https://www.sydders.com
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.footer
+  palette: 
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: light blue
+      accent: pink
+  
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: light blue
+      accent: pink
+
+extra:
+  social:
+    - icon: simple/youtube
+      link: https://youtube.com/@SyddersLMAO
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
