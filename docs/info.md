@@ -10,4 +10,4 @@ Below is the link to the map:<br>
 ## Streamers
 Below is a link to a website holding each member of the Silly SMP and whether they are live on the SMP, this can be helpful so you know who is online at the time.
 
-[Silly SMP Streamers](https://info.sillysmp.net/streamers)
+[Silly SMP Streamers](https://info.sillysmp.net)
